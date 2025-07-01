@@ -1,6 +1,6 @@
-# aicodedetector
+# CodeZero Pro
 
-A new Flutter project.
+A simple, affordable, and powerful AI Code Detector designed with both students and universities in mind.
 
 ## Getting Started
 
